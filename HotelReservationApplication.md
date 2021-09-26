@@ -15,7 +15,7 @@
 - [ ] create seperate forms for adding and removing customers and changing rooms occupancy
 - [ ] create excpetion handling for all user input to assure quality
 
-**Day 1**
-September 26, 2021
-*Progress*
+#### **Day 1**
+\n September 26, 2021
+##### *Progress*
 what i got done...

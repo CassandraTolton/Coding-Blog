@@ -16,5 +16,5 @@
 - [ ] create excpetion handling for all user input to assure quality
 
 #### **Day 1**: September 26, 2021
-#### *Progress*
+#### Progress
 what i got done...

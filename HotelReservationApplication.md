@@ -7,10 +7,10 @@
 3. Create a presentable project that can be added to my portfolio
 
 ### To-Do:
-- [ ] Create the main layout of the Form
+- [ x ] Create the main layout of the Form
 - [ ] Creating the functionality of the buttons on the main page
 - [ ] Read in the files needed for the data of the rooms, customers and occupations
-- [ ] create the classes needed for each
+- [ x ] create the classes needed for each
 - [ ] display all data on the main page of the form
 - [ ] create seperate forms for adding and removing customers and changing rooms occupancy
 - [ ] create excpetion handling for all user input to assure quality

@@ -21,5 +21,7 @@ I created a sketch of the basic layout and then created a more detail wireframe 
 
 #### **Day 2**: September 27, 2021
 Progress: 
-i expanded on linking all the files that will be needed in order to keep track of client data, rooms and occupancies. im still trying to figure out how im going to seperate the different types of rooms but im thinking about created an extra variable (dont know if ill make it a string or bool yet) so when the time comes i can be ready to sort through them.
+
+i expanded on linking all the files that will be needed in order to keep track of client data, rooms and occupancies. im still trying to figure out how im going to seperate the different types of rooms but im thinking about created an extra variable (dont know if ill make it a string or bool yet) so when the time comes i can be ready to sort through them. i also created a seperate form for creating clients and checking them out (will need to create an additional form for altering rooms)
+
 i also switched out the list box for a grid view, as i wanted headers and rows that can be sorted with needing extra buttons, however because i am not using a SQL database i had to do additional research on how to add data and clear data from the table. i got the rooms to be properly displayed (i still need to add all of them, as of right now only one room is added for testing purposes). i also had the files read in and added the data extracted into their respective arrays (for the rooms i am using a dictionary, for the clients im using a string array).

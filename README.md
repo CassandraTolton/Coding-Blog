@@ -13,6 +13,7 @@
   
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
+  Unfortunatly I had a migraine, so i was not able to update my portfolio. However i did finish setting up the GitHub journal and have set an alarm everyday to remind me to update the journal with my progress. Note: the goals for the end of the year will be benchedmarked at the end of the year (1 month or so) and will add a section called what i learned that will be easy for others to see the skills i picked up for each project/course that i complete.
  
   
   

@@ -21,7 +21,12 @@ Unfortunately, I had a migraine, so I was not able to update my portfolio. Howev
 
 I also downloaded Visual Studio 2022 and will begin to familiarize myself with it. I will need to start reading the changes that involve the .NET 6.0 release and all the changes that came with it. I came up with project ideas and added them to the checklist. The first project, a journal that will help keep track of my daily progress and possibly update GitHub, will showcase a simple front-end desktop application. This project will showcase that I know how to use pure C# to design something beneficial. The second project is a recreation of my backend C# hotel booking application. Except this project will have the ability to allow users to use and check to see their room number and what type of room with which commodities they have. Management/hotel personnel will have access to change bookings, rooms, update customer information, and create invoices. This project is not a third-party booking service: it is software designed for hotels and their customers. 
  
-  
+ ## November 15, 2021
+*Revised the Previous entry*
+
+<hr>
+
+Today was cleaning day so i couldnt get much done, but i did fix the grammer issues within my last post to at least push something for activity. also i have a feeling i wont be able to get much done until college is over, but ill still try my best to start working on some projects to add to my portfolio. 
   
   
 

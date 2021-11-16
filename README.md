@@ -28,5 +28,6 @@ I also downloaded Visual Studio 2022 and will begin to familiarize myself with i
 
 Today was cleaning day so i couldnt get much done, but i did fix the grammer issues within my last post to at least push something for activity. also i have a feeling i wont be able to get much done until college is over, but ill still try my best to start working on some projects to add to my portfolio. 
   
-  
+## November 16, 2021
+*Creating wireframes for projects and working on python course along with updating portfolio*
 

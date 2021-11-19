@@ -30,10 +30,16 @@ Today was cleaning day so i couldnt get much done, but i did fix the grammer iss
   
 ## November 16, 2021
 *Creating wireframes for projects and working on python course*
+
+<hr>
+
 Created wireframes for the upcoming project along with working on the python course and completely a section. one more section then ill be done with unit 2, I will try to work on projects but i am still trying to experiment with .NET 6 WPF wireframe and form. it is very different compared to Windows forms, and im still getting used to the new UI. 
 
 ## November 19, 2021
 *Meetings and working on TestLabs and python*
+
+<hr>
+
 Finished labs for testout, so i will begin to study more so i can get my A+ certification to boost my resume and will also work on python course to hopefully get it done by the end of the month. i will also need to start planning things out for the month of december as i am going out of town for the last week of it. i will continue to update the journal and code however due to limited internet access i feel it will be difficult to update to Github but we will see.
 
 i am also looking into joining a coding discord

@@ -9,7 +9,6 @@
      - [ ] Simple Desktop application that will track coding progress and journaling. (GUI)
      - [ ] a full Hotel booking application that will be a full stack project. backend will be C#, front end will be JavaScript. 
  - [ ] Finish current Python course
- - [ ] Update Github daily
   
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
@@ -43,3 +42,10 @@ Created wireframes for the upcoming project along with working on the python cou
 Finished labs for testout, so i will begin to study more so i can get my A+ certification to boost my resume and will also work on python course to hopefully get it done by the end of the month. i will also need to start planning things out for the month of december as i am going out of town for the last week of it. i will continue to update the journal and code however due to limited internet access i feel it will be difficult to update to Github but we will see.
 
 i am also looking into joining a coding discord
+
+## November 22, 2021
+*python*
+
+<hr>
+
+Finding it hard to update the journal daily, with the semester almost done theres a lot of work to be done. Hopefully when break comes i can focus more on programming. I might end up deleting all of this as this was not the intention of the journel. it was more suppose to be about my progress however progress has be slow.

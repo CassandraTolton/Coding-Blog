@@ -49,3 +49,10 @@ i am also looking into joining a coding discord
 <hr>
 
 Finding it hard to update the journal daily, with the semester almost done theres a lot of work to be done. Hopefully when break comes i can focus more on programming. I might end up deleting all of this as this was not the intention of the journel. it was more suppose to be about my progress however progress has be slow.
+
+## November 23, 2021
+*adding comments into hotel booking application and creating more mock ups for the upcoming projects.*
+
+<hr>
+
+I added comments to the hotel booking application (back end) Note: this is different then the upcoming project as the newer project will be a full stack application. the mock ups need color and more testing before i start hard coding everything, i also need to figure out functionality and where everything will be. im still stuck on two items, the clock in feature and the statistics feature.

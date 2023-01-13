@@ -8,7 +8,7 @@
  - [ ] Finish 2 projects
      - [ ] Simple Desktop application that will track coding progress and journaling. (GUI)
      - [ ] a full Hotel booking application that will be a full stack project. backend will be C#, front end will be JavaScript. 
- - [ ] Finish current Python course
+ - [X] Finish current Python course
   
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
@@ -62,5 +62,7 @@ I added comments to the hotel booking application (back end) Note: this is diffe
 
 <hr>
 
-so uh, a year has gone by since i last updated... whoops. my new years resolution is to contribute more to githum and make more projects and really start pushing myself to do and be better. so heres to a new year :cheers.
+so uh, a year has gone by since i last updated... whoops. my new years resolution is to contribute more to githum and make more projects and really start pushing myself to do and be better. so heres to a new year :beers:
+
+first thing on the list is taking screenshots of the hotel booking application and working on the read me. next updating my portfolio to include new things and change the style up a bit. last im going to start contributing to open sources, which im having quite a bit of anxiety just thinking about it but i need to push through it. on the bright side, i did finish the python course.  
 

@@ -56,3 +56,11 @@ Finding it hard to update the journal daily, with the semester almost done there
 <hr>
 
 I added comments to the hotel booking application (back end) Note: this is different then the upcoming project as the newer project will be a full stack application. the mock ups need color and more testing before i start hard coding everything, i also need to figure out functionality and where everything will be. im still stuck on two items, the clock in feature and the statistics feature.
+
+## January 13, 2023
+*trying to put more effort into github*
+
+<hr>
+
+so uh, a year has gone by since i last updated... whoops. my new years resolution is to contribute more to githum and make more projects and really start pushing myself to do and be better. so heres to a new year :cheers.
+

@@ -9,6 +9,7 @@
      - [ ] Simple Desktop application that will track coding progress and journaling. (GUI)
      - [ ] a full Hotel booking application that will be a full stack project. backend will be C#, front end will be JavaScript. 
  - [X] Finish current Python course
+ - [ ] Take a UI/UX course
   
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
@@ -62,7 +63,13 @@ I added comments to the hotel booking application (back end) Note: this is diffe
 
 <hr>
 
-so uh, a year has gone by since i last updated... whoops. my new years resolution is to contribute more to githum and make more projects and really start pushing myself to do and be better. so heres to a new year :beers:
+so uh, a year has gone by since i last updated... whoops. my new years resolution is to contribute more to github and make more projects and really start pushing myself to do and be better. so heres to a new year :beers:
 
 first thing on the list is taking screenshots of the hotel booking application and working on the read me. next updating my portfolio to include new things and change the style up a bit. last im going to start contributing to open sources, which im having quite a bit of anxiety just thinking about it but i need to push through it. on the bright side, i did finish the python course.  
 
+## January 14, 2023
+*updated the readme for the hotel application*
+
+<hr>
+
+added screen shots to the read me of the hotel application and fleshed it out a bit. going to start brain storming project ideas to build and add more things to the github. also need to update portfolio, take a ui/ux course, and make more projects. setting up monthly check points to track my progress and making sure i become more active with programing. (might make a page for monthly goals and update it every month)

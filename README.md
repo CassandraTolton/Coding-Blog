@@ -73,3 +73,10 @@ first thing on the list is taking screenshots of the hotel booking application a
 <hr>
 
 added screen shots to the read me of the hotel application and fleshed it out a bit. going to start brain storming project ideas to build and add more things to the github. also need to update portfolio, take a ui/ux course, and make more projects. setting up monthly check points to track my progress and making sure i become more active with programing. (might make a page for monthly goals and update it every month)
+
+## January 15, 2023
+*looked up project ideas and prepared for the new semester*
+
+<hr>
+
+not much of a day, mainly just brain storming and thinking of desgin ideas while preparing for a new semester starting. (end me.)

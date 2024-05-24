@@ -15,7 +15,7 @@
  - [ ] Take a UI/UX course
  - [ ] go through the neetcode 150 by the end of the year
 
-#2021
+# 2021
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
 

@@ -93,9 +93,9 @@ not much of a day, mainly just brain storming and thinking of desgin ideas while
 
 <hr>
 
-worked on leet code problems:
-Duplicate Integer - completed without looking at solution
-Is Anagram - completed without looking at solution
+1. worked on leet code problems:
+  Duplicate Integer - completed without looking at solution
+  Is Anagram - completed without looking at solution
 
 dont worry about me being abscent for a year, college life is rough.
 

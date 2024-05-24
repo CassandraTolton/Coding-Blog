@@ -1,16 +1,21 @@
 # Coding-Blog
   A daily blog of my coding habits, progress, and learning experiences
+  i really suck at updating
 
 ## Goals for end of the year (2021):
  - [ ] Finish Portfolio
-     - [ ] Add projects, descriptions and links 
+     - [ ] Add projects, descriptions and links
+     - [ ] rework the entire site to show more personality
+     - [ ] update and rewrite resume to include projects and volunteer work ive done
      - [ ] Upload to hosting site
  - [ ] Finish 2 projects
      - [ ] Simple Desktop application that will track coding progress and journaling. (GUI)
-     - [ ] a full Hotel booking application that will be a full stack project. backend will be C#, front end will be JavaScript. 
+     - [ ] phonebook application that uses wpf C# .net framework (backend and gui)
  - [X] Finish current Python course
  - [ ] Take a UI/UX course
-  
+ - [ ] go through the neetcode 150 by the end of the year
+
+#2021
 ## November 14, 2021
 *Setting up Github Journal and updating Portfolio*
 
@@ -58,6 +63,7 @@ Finding it hard to update the journal daily, with the semester almost done there
 
 I added comments to the hotel booking application (back end) Note: this is different then the upcoming project as the newer project will be a full stack application. the mock ups need color and more testing before i start hard coding everything, i also need to figure out functionality and where everything will be. im still stuck on two items, the clock in feature and the statistics feature.
 
+# 2023
 ## January 13, 2023
 *trying to put more effort into github*
 
@@ -80,3 +86,16 @@ added screen shots to the read me of the hotel application and fleshed it out a 
 <hr>
 
 not much of a day, mainly just brain storming and thinking of desgin ideas while preparing for a new semester starting. (end me.)
+
+# 2024
+## May 24, 2024 
+*competed leet code problems and update github page*
+
+<hr>
+
+worked on leet code problems:
+Duplicate Integer - completed without looking at solution
+Is Anagram - completed without looking at solution
+
+dont worry about me being abscent for a year, college life is rough.
+
